@@ -59,7 +59,23 @@ for i in range(0, numberPoints, 1):#len(base_link_x_odom_camera), 1):
 #*******************************************************************************
 #           Plot data
 #*******************************************************************************
+f = plt.figure(1)
+for i in range(0, numberPoints, 1):
+    # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
+    plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
+plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
+# plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
+# plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
+plt.xlabel('y [m]')
+plt.ylabel('x [m]')
+plt.title('Measurment of the odometry')
+# plt.legend()
+plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
+           ncol=2, mode="expand", borderaxespad=0.)
+# f.show()
+
+g = plt.figure(2)
 for i in range(0, numberPoints, 1):
     # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
     plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
@@ -74,3 +90,4 @@ plt.title('Measurment of the odometry')
 plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
            ncol=2, mode="expand", borderaxespad=0.)
 plt.show()
+# raw_input()
