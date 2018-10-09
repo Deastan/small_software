@@ -102,7 +102,7 @@ if __name__== "__main__":
 
     plt.xlabel('y [m]')
     plt.ylabel('x [m]')
-    plt.title('Measurment of the odometry' + '\n' + file_name)
+    # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
                ncol=3, mode="expand", borderaxespad=0.)
@@ -122,7 +122,7 @@ if __name__== "__main__":
 
     plt.xlabel('y [m]')
     plt.ylabel('x [m]')
-    plt.title('Measurment of the odometry' + '\n' + file_name)
+    # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
                ncol=3, mode="expand", borderaxespad=0.)
@@ -142,7 +142,7 @@ if __name__== "__main__":
 
     plt.xlabel('y [m]')
     plt.ylabel('x [m]')
-    plt.title('Measurment of the odometry' + '\n' + file_name)
+    # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
                ncol=3, mode="expand", borderaxespad=0.)
