@@ -55,8 +55,8 @@ err_min_1 = min(err_abs_1)
 n_1 = err_abs_1.tolist().index(min(err_abs_1))
     # end of the loop
 
-print(np.var(base_link_x_odom_camera))
-print(np.var(base_link_y_odom_camera))
+# print(np.var(base_link_x_odom_camera))
+# print(np.var(base_link_y_odom_camera))
 
 plt.rcParams.update({'font.size': 30})
 

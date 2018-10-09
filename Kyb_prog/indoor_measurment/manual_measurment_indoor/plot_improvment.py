@@ -72,7 +72,7 @@ if __name__== "__main__":
     for i in range(0, len(Strecke_1), 1):
         plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
-    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
+    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Robot position in camera frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
@@ -96,7 +96,7 @@ if __name__== "__main__":
     for i in range(0, len(Strecke_1), 1):
         plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
-    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
+    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Robot position in camera frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
@@ -116,7 +116,7 @@ if __name__== "__main__":
     for i in range(0, len(Strecke_1), 1):
         plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
-    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
+    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Robot position in camera frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
@@ -136,7 +136,7 @@ if __name__== "__main__":
     for i in range(0, len(Strecke_1), 1):
         plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
-    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
+    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Robot position in camera frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
