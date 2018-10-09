@@ -14,7 +14,7 @@ def function(file_name_arg):
 
   file_name = file_name_arg
   #  Define waypoints
-  Strecke_1 = [[1, 1.5],
+  Strecke_1 = [[1, -1.5],
                [3.7, -1.5],
                [3.7,-6],
                [1,-6]]
@@ -61,17 +61,16 @@ def function(file_name_arg):
       n_1[i] = err_abs_1[i,].tolist().index(min(err_abs_1[i,]))
       # end of the loop
 
-
   return (err_min_1, err_min_1, n_1, Strecke_1)
 
 if __name__== "__main__":
 
     file_name = 'measure_1-base_link_odom_camera_is1500.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
-
+    # print(Strecke_1[int(1)][int(1)])
     f = plt.figure(1)
     for i in range(0, len(Strecke_1), 1):
-        # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
+        plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
     plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
@@ -81,9 +80,17 @@ if __name__== "__main__":
     plt.ylabel('x [m]')
     plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
-    plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
-               ncol=2, mode="expand", borderaxespad=0.)
-
+    # plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
+    #            ncol=2, mode="expand", borderaxespad=0.)
+    # plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
+    plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
+    # f.set_size_inches(20, 15)
+    # Option 2
+    # QT backend
+    manager = plt.get_current_fig_manager()
+    manager.resize(*manager.window.maxsize())
+    f.savefig(file_name+'.png', dpi=600)
+    plt.close(f)
 
     file_name = 'measure_2-base_link_odom_camera_is1500.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
@@ -91,7 +98,7 @@ if __name__== "__main__":
 
     g = plt.figure(2)
     for i in range(0, len(Strecke_1), 1):
-        # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
+        plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
     plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
@@ -103,14 +110,15 @@ if __name__== "__main__":
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
                ncol=2, mode="expand", borderaxespad=0.)
-
+    g.savefig(file_name+'.png', dpi=600)
+    plt.close(g)
 
     file_name = 'measure_3-base_link_odom_camera_is1500.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
 
     h = plt.figure(3)
     for i in range(0, len(Strecke_1), 1):
-        # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
+        plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
     plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
@@ -122,13 +130,15 @@ if __name__== "__main__":
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
                ncol=2, mode="expand", borderaxespad=0.)
+    h.savefig(file_name+'.png', dpi=600)
+    plt.close(h)
 
     file_name = 'threeTour-base_link_odom_camera_is1500.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
 
     l = plt.figure(4)
     for i in range(0, len(Strecke_1), 1):
-        # plt.plot(Strecke_1[int(i),int(1)], Strecke_1[int(i),int(0)], 'o' ,color='blue', markersize=20, label="Origin")
+        plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1))
         plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
     plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Camera position in Base link frame')
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
@@ -140,5 +150,6 @@ if __name__== "__main__":
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=3,
                ncol=2, mode="expand", borderaxespad=0.)
-
+    l.savefig(file_name+'.png', dpi=600)
+    plt.close(l)
     plt.show()
