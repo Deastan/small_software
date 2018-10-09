@@ -76,8 +76,8 @@ if __name__== "__main__":
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
-    plt.xlabel('y [m]')
-    plt.ylabel('x [m]')
+    plt.xlabel('x [m]')
+    plt.ylabel('y [m]')
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
@@ -100,8 +100,8 @@ if __name__== "__main__":
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
-    plt.xlabel('y [m]')
-    plt.ylabel('x [m]')
+    plt.xlabel('x [m]')
+    plt.ylabel('y [m]')
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
@@ -120,8 +120,8 @@ if __name__== "__main__":
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
-    plt.xlabel('y [m]')
-    plt.ylabel('x [m]')
+    plt.xlabel('x [m]')
+    plt.ylabel('y [m]')
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
@@ -140,8 +140,8 @@ if __name__== "__main__":
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
 
-    plt.xlabel('y [m]')
-    plt.ylabel('x [m]')
+    plt.xlabel('x [m]')
+    plt.ylabel('y [m]')
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
