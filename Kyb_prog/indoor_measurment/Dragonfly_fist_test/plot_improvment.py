@@ -67,7 +67,7 @@ if __name__== "__main__":
 
     plt.rcParams.update({'font.size': 30})
 
-    file_name = '2018-10-17-08-54-43-GPS_Dragonfly.csv'
+    file_name = 'squarewith_bad_end-GPS_Dragonfly.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
     # print(Strecke_1[int(1)][int(1)])
     f = plt.figure(1, figsize=(40, 32))
