@@ -1,0 +1,5135 @@
+time,.transforms
+2018/10/17/15:41:37.877526,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783697
+    nsecs: 877222527
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53346144992
+    y: -1.13700187207
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583573169705
+    w: 0.812060561535]
+2018/10/17/15:41:37.977441,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783697
+    nsecs: 977206169
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5335369751
+    y: -1.13695382295
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583539256171
+    w: 0.812084931831]
+2018/10/17/15:41:38.077407,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs:  77206286
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53397885177
+    y: -1.13692266038
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583740667902
+    w: 0.811940165675]
+2018/10/17/15:41:38.177410,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 177200362
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53453389374
+    y: -1.13704267375
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583902938919
+    w: 0.81182347707]
+2018/10/17/15:41:38.277441,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 277248121
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53376819503
+    y: -1.13712958886
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583415325921
+    w: 0.81217396996]
+2018/10/17/15:41:38.377456,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 377255298
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53442011461
+    y: -1.13721167125
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583648738214
+    w: 0.812006250211]
+2018/10/17/15:41:38.477519,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 477258025
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53396599693
+    y: -1.13732451728
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583480063869
+    w: 0.812127462328]
+2018/10/17/15:41:38.577488,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 577250753
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53421357999
+    y: -1.13746756217
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583511843451
+    w: 0.812104629067]
+2018/10/17/15:41:38.677384,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 677177949
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53481674963
+    y: -1.13789777226
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583659023574
+    w: 0.811998857266]
+2018/10/17/15:41:38.777416,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 777205247
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53513804346
+    y: -1.13798459987
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583609474578
+    w: 0.81203447044]
+2018/10/17/15:41:38.877414,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 877202621
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53437928178
+    y: -1.13803520902
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583173455195
+    w: 0.812347660276]
+2018/10/17/15:41:38.977423,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783698
+    nsecs: 977205311
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53485986389
+    y: -1.13813372466
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583458448917
+    w: 0.812142991343]
+2018/10/17/15:41:39.077410,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs:  77212012
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53479730953
+    y: -1.13846748338
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583280863538
+    w: 0.81227054251]
+2018/10/17/15:41:39.177414,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 177172615
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53444709537
+    y: -1.13861555724
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582990226351
+    w: 0.81247916649]
+2018/10/17/15:41:39.277418,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 277195506
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53555023031
+    y: -1.13902430134
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.5833184892
+    w: 0.812243522694]
+2018/10/17/15:41:39.377424,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 377218594
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53561609615
+    y: -1.13901486116
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583252038433
+    w: 0.812291240667]
+2018/10/17/15:41:39.477436,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 477227501
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53547587479
+    y: -1.13906861963
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583152104815
+    w: 0.812362987002]
+2018/10/17/15:41:39.577399,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 577198648
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53603741356
+    y: -1.13925109079
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.5832611917
+    w: 0.812284668239]
+2018/10/17/15:41:39.677402,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 677203033
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53644422585
+    y: -1.13942713626
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583360885859
+    w: 0.812213073553]
+2018/10/17/15:41:39.777386,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 777209726
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53696597006
+    y: -1.13988945539
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583364414335
+    w: 0.812210539261]
+2018/10/17/15:41:39.877360,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 877207511
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53671388705
+    y: -1.13995784726
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583145803739
+    w: 0.812367510171]
+2018/10/17/15:41:39.977357,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783699
+    nsecs: 977178402
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53656163868
+    y: -1.1401176266
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583033771242
+    w: 0.81244791931]
+2018/10/17/15:41:40.077377,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs:  77189524
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53619495423
+    y: -1.14020127997
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582918901069
+    w: 0.812530340835]
+2018/10/17/15:41:40.177420,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 177179409
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53626740556
+    y: -1.14027067337
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582906255712
+    w: 0.812539412614]
+2018/10/17/15:41:40.277449,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 277209186
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53652894682
+    y: -1.14050631522
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.58295521342
+    w: 0.812504288694]
+2018/10/17/15:41:40.377431,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 377208337
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53686805894
+    y: -1.1405188554
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582996271347
+    w: 0.812474828899]
+2018/10/17/15:41:40.477453,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 477190178
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5365104429
+    y: -1.14044555677
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582815948885
+    w: 0.812604190074]
+2018/10/17/15:41:40.577455,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 577268968
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53664173705
+    y: -1.14046100282
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582850682091
+    w: 0.8125792776]
+2018/10/17/15:41:40.677415,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 677204275
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53676851337
+    y: -1.14035351534
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582908757746
+    w: 0.812537617679]
+2018/10/17/15:41:40.777416,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 777222920
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53647249886
+    y: -1.14038744828
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582761304146
+    w: 0.812643379589]
+2018/10/17/15:41:40.877435,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 877231798
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53556215696
+    y: -1.14114038361
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582366701774
+    w: 0.812926211082]
+2018/10/17/15:41:40.977406,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783700
+    nsecs: 977189995
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53533047954
+    y: -1.14258534775
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582381545139
+    w: 0.812915577339]
+2018/10/17/15:41:41.077435,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs:  77203611
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53424339996
+    y: -1.1452336802
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582029663205
+    w: 0.813167554167]
+2018/10/17/15:41:41.177413,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 177208726
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53413156255
+    y: -1.14884293235
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.582270925603
+    w: 0.812994814988]
+2018/10/17/15:41:41.277514,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 277273193
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53333796884
+    y: -1.15290491392
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.58247783963
+    w: 0.812846582289]
+2018/10/17/15:41:41.377467,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 377210305
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53433736286
+    y: -1.15674770845
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583439996802
+    w: 0.812156247364]
+2018/10/17/15:41:41.477437,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 477200423
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53557356596
+    y: -1.15934671945
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.584097422589
+    w: 0.8116835596]
+2018/10/17/15:41:41.577395,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 577180600
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53589344266
+    y: -1.16176799193
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583961825314
+    w: 0.811781119869]
+2018/10/17/15:41:41.677657,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 677425881
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53657810173
+    y: -1.16412387955
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.584620662193
+    w: 0.811306773876]
+2018/10/17/15:41:41.777534,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 777316216
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53774507094
+    y: -1.16612584467
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.586293035856
+    w: 0.810099053268]
+2018/10/17/15:41:41.877544,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 877306590
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5384062286
+    y: -1.16767934844
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.587861352953
+    w: 0.80896169854]
+2018/10/17/15:41:41.977458,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783701
+    nsecs: 977228786
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53841872404
+    y: -1.16890508047
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.588650658704
+    w: 0.80838753207]
+2018/10/17/15:41:42.077463,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs:  77265942
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53858725256
+    y: -1.16927166344
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.589549707877
+    w: 0.807732097878]
+2018/10/17/15:41:42.177394,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 177204037
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54019799388
+    y: -1.17098478437
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.590261029435
+    w: 0.807212436184]
+2018/10/17/15:41:42.277459,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 277197181
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53899983043
+    y: -1.17324936765
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.589393095209
+    w: 0.807846383491]
+2018/10/17/15:41:42.377465,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 377198312
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53939960835
+    y: -1.17562799153
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.589994658358
+    w: 0.807407148289]
+2018/10/17/15:41:42.477558,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 477270104
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53903954776
+    y: -1.18018359939
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.589813592027
+    w: 0.80753942731]
+2018/10/17/15:41:42.577533,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 577235171
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53947449957
+    y: -1.18539598924
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.589837288781
+    w: 0.807522119055]
+2018/10/17/15:41:42.677471,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 677224808
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54124327607
+    y: -1.19122142602
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.590563563413
+    w: 0.806991126078]
+2018/10/17/15:41:42.777443,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 777227136
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5418716814
+    y: -1.19777458108
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.590036211261
+    w: 0.807376782798]
+2018/10/17/15:41:42.878017,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 877625383
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53974484046
+    y: -1.20533267919
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.588175769462
+    w: 0.808733122988]
+2018/10/17/15:41:42.977952,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783702
+    nsecs: 977600384
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53864686885
+    y: -1.21398565514
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.587451861777
+    w: 0.809259111839]
+2018/10/17/15:41:43.077954,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs:  77553062
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53986785675
+    y: -1.22231346621
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.588711421691
+    w: 0.808343282257]
+2018/10/17/15:41:43.177520,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 177212047
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53989824505
+    y: -1.23356121088
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.5902044496
+    w: 0.80725380623]
+2018/10/17/15:41:43.277524,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 277220077
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53863571144
+    y: -1.24319304234
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.591423450838
+    w: 0.806361148493]
+2018/10/17/15:41:43.377505,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 377235920
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5360500698
+    y: -1.25358758392
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.592087529556
+    w: 0.805873660907]
+2018/10/17/15:41:43.477488,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 477218393
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53446545961
+    y: -1.2638726624
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.593010316486
+    w: 0.805194861224]
+2018/10/17/15:41:43.577469,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 577202094
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53288127843
+    y: -1.27342067589
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.594280782509
+    w: 0.804257640026]
+2018/10/17/15:41:43.677483,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 677269362
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52957282242
+    y: -1.28358832406
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.594929802302
+    w: 0.803777662251]
+2018/10/17/15:41:43.777461,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 777199540
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5220015125
+    y: -1.29383082389
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.593338180712
+    w: 0.804953292626]
+2018/10/17/15:41:43.877425,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 877196954
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51996852661
+    y: -1.30695332153
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.591881907068
+    w: 0.806024694464]
+2018/10/17/15:41:43.977982,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783703
+    nsecs: 977611136
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51822687232
+    y: -1.32201561072
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.590328555976
+    w: 0.807163054159]
+2018/10/17/15:41:44.077481,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs:  77274074
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51360584644
+    y: -1.33755819974
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.588565388471
+    w: 0.808449617165]
+2018/10/17/15:41:44.177491,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 177254864
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50945090219
+    y: -1.35375245282
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.587896011249
+    w: 0.808936511698]
+2018/10/17/15:41:44.277430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 277210571
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50802948984
+    y: -1.36948580308
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.588207025851
+    w: 0.808710389904]
+2018/10/17/15:41:44.377690,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 377480094
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50651097969
+    y: -1.3859925842
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.587926911966
+    w: 0.808914053646]
+2018/10/17/15:41:44.477440,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 477278813
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50521636516
+    y: -1.40246989399
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.58656491919
+    w: 0.809902213589]
+2018/10/17/15:41:44.577416,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 577231235
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50598418045
+    y: -1.41784408864
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.585427439605
+    w: 0.810724807168]
+2018/10/17/15:41:44.677809,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 677439244
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5058666711
+    y: -1.43099661237
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.583673268846
+    w: 0.811988617675]
+2018/10/17/15:41:44.777905,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 777541099
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50620440663
+    y: -1.45061968168
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.581617949412
+    w: 0.813462083273]
+2018/10/17/15:41:44.877827,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 877501992
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50524154433
+    y: -1.46885615786
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.578748943102
+    w: 0.815505769973]
+2018/10/17/15:41:44.977432,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783704
+    nsecs: 977204771
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50213956818
+    y: -1.48745222912
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.574612839763
+    w: 0.818425368851]
+2018/10/17/15:41:45.077393,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs:  77205206
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49633521829
+    y: -1.50663958718
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569731040625
+    w: 0.821831212201]
+2018/10/17/15:41:45.177426,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 177259510
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49525669143
+    y: -1.52854838707
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568361635514
+    w: 0.822778859279]
+2018/10/17/15:41:45.277462,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 277313102
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49522315235
+    y: -1.55252953107
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567823124136
+    w: 0.823150593571]
+2018/10/17/15:41:45.377397,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 377203757
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49570392906
+    y: -1.57643114421
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568187998231
+    w: 0.822898777898]
+2018/10/17/15:41:45.477477,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 477263123
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.497379909
+    y: -1.59887060557
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569717593914
+    w: 0.821840533914]
+2018/10/17/15:41:45.577873,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 577491908
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.4964940103
+    y: -1.62124160986
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569032375976
+    w: 0.822315119094]
+2018/10/17/15:41:45.677606,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 677350506
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49648663414
+    y: -1.6457124175
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569342228259
+    w: 0.822100618612]
+2018/10/17/15:41:45.777750,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 777498823
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49538405988
+    y: -1.67136083664
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568724277447
+    w: 0.822528234313]
+2018/10/17/15:41:45.877462,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 877209470
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49709289779
+    y: -1.69754142816
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569402681152
+    w: 0.822058748933]
+2018/10/17/15:41:45.977466,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783705
+    nsecs: 977200912
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49837310301
+    y: -1.72191965157
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.56937196249
+    w: 0.822080025502]
+2018/10/17/15:41:46.077521,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs:  77329345
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50072262042
+    y: -1.74086478799
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569237037265
+    w: 0.822173458222]
+2018/10/17/15:41:46.177477,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 177273879
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50368225516
+    y: -1.75932856955
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569622190387
+    w: 0.821906661501]
+2018/10/17/15:41:46.277510,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 277298712
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50608786343
+    y: -1.78159464064
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.570041435303
+    w: 0.821615945584]
+2018/10/17/15:41:46.377506,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 377231649
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51425389148
+    y: -1.80154980012
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.572293899968
+    w: 0.820048591279]
+2018/10/17/15:41:46.477585,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 477339214
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52340796344
+    y: -1.8214986028
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.574500326177
+    w: 0.818504352598]
+2018/10/17/15:41:46.577396,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 577211478
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52885370283
+    y: -1.84024141242
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.575622917921
+    w: 0.81771526607]
+2018/10/17/15:41:46.677434,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 677210134
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53159954308
+    y: -1.8593445059
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.575461102985
+    w: 0.817829150221]
+2018/10/17/15:41:46.777519,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 777235880
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53397872932
+    y: -1.87924196637
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.575019454663
+    w: 0.818139735472]
+2018/10/17/15:41:46.877537,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 877353461
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53906646643
+    y: -1.89921110317
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.575590687403
+    w: 0.817737953488]
+2018/10/17/15:41:46.977484,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783706
+    nsecs: 977270848
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54362751606
+    y: -1.91862188746
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.576109615184
+    w: 0.817372443438]
+2018/10/17/15:41:47.077435,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs:  77246360
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5480671154
+    y: -1.93787139322
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.576816490412
+    w: 0.816873757926]
+2018/10/17/15:41:47.177399,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 177219919
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55302245727
+    y: -1.95845508006
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.57729821507
+    w: 0.81653338626]
+2018/10/17/15:41:47.277521,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 277324625
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55392134818
+    y: -1.97923668337
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.575392425553
+    w: 0.817877470417]
+2018/10/17/15:41:47.377486,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 377208999
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55568866819
+    y: -1.99983112083
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.573558732281
+    w: 0.819164440527]
+2018/10/17/15:41:47.477410,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 477213477
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55608631728
+    y: -2.01925135778
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.571670730307
+    w: 0.820483135786]
+2018/10/17/15:41:47.577450,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 577280343
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55799651839
+    y: -2.03764305136
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.571045536362
+    w: 0.820918385347]
+2018/10/17/15:41:47.677517,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 677349204
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56076212413
+    y: -2.05615821284
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.571120289668
+    w: 0.820866380557]
+2018/10/17/15:41:47.777473,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 777253464
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56368295696
+    y: -2.07453709635
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.570765446058
+    w: 0.821113150294]
+2018/10/17/15:41:47.877393,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 877253079
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56439946049
+    y: -2.09267202952
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569301094449
+    w: 0.822129104131]
+2018/10/17/15:41:47.977400,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783707
+    nsecs: 977268956
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56440526844
+    y: -2.11090927863
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567284534115
+    w: 0.823521862098]
+2018/10/17/15:41:48.077374,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs:  77211054
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56628035528
+    y: -2.1289092023
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.56609608163
+    w: 0.824339266542]
+2018/10/17/15:41:48.177364,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 177196067
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56794319574
+    y: -2.14666286175
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565238670652
+    w: 0.82492741814]
+2018/10/17/15:41:48.277389,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 277183885
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56886699723
+    y: -2.16496385854
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.564037953371
+    w: 0.82574886446]
+2018/10/17/15:41:48.377407,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 377192604
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56845143073
+    y: -2.18248193528
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562560671571
+    w: 0.826756004394]
+2018/10/17/15:41:48.477582,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 477351081
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56975799071
+    y: -2.19988158986
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561851104681
+    w: 0.827238379289]
+2018/10/17/15:41:48.577505,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 577246448
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57217908283
+    y: -2.2175072953
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561991969033
+    w: 0.82714268826]
+2018/10/17/15:41:48.677486,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 677251883
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57232632223
+    y: -2.23899294374
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561916919592
+    w: 0.827193674708]
+2018/10/17/15:41:48.777491,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 777240261
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57105029692
+    y: -2.26226872737
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561119672883
+    w: 0.827734687387]
+2018/10/17/15:41:48.877534,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 877319817
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57033594119
+    y: -2.28428838862
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.560114360496
+    w: 0.828415296314]
+2018/10/17/15:41:48.977460,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783708
+    nsecs: 977162067
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56824289488
+    y: -2.30645115706
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559220025728
+    w: 0.829019277716]
+2018/10/17/15:41:49.077402,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs:  77160141
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56889839224
+    y: -2.32586753927
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.558949152561
+    w: 0.829201932493]
+2018/10/17/15:41:49.177344,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 177173016
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57215819083
+    y: -2.34255152723
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559356681686
+    w: 0.828927079213]
+2018/10/17/15:41:49.277383,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 277222058
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57528975998
+    y: -2.35996580869
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559693151483
+    w: 0.828699931328]
+2018/10/17/15:41:49.377376,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 377176472
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57651988884
+    y: -2.37727844444
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559149829103
+    w: 0.829066624955]
+2018/10/17/15:41:49.477386,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 477161714
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57814065202
+    y: -2.39499553255
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559009975875
+    w: 0.829160929417]
+2018/10/17/15:41:49.577363,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 577168126
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58184079553
+    y: -2.41234374763
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.56020510104
+    w: 0.828353936895]
+2018/10/17/15:41:49.677502,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 677260677
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58729985009
+    y: -2.42888849887
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561676333689
+    w: 0.827357054828]
+2018/10/17/15:41:49.777385,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 777206660
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59310389858
+    y: -2.44527135363
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562639437856
+    w: 0.826702402905]
+2018/10/17/15:41:49.877379,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 877206276
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.45877270439
+    y: -2.94277660169
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.539095460721
+    w: 0.842244670052]
+2018/10/17/15:41:49.977425,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783709
+    nsecs: 977216543
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.451239245
+    y: -2.97454585773
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.537621300244
+    w: 0.8431864192]
+2018/10/17/15:41:50.077491,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs:  77268387
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.44762856599
+    y: -3.00156466586
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53679930326
+    w: 0.843709966766]
+2018/10/17/15:41:50.177428,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 177164350
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.43817243022
+    y: -3.03279661838
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.533263088472
+    w: 0.845949453853]
+2018/10/17/15:41:50.277420,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 277183228
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.42672298732
+    y: -3.06249865709
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.52804529836
+    w: 0.849216205027]
+2018/10/17/15:41:50.377384,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 377179795
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.42082946197
+    y: -3.09177274312
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.52531599687
+    w: 0.850907223752]
+2018/10/17/15:41:50.477473,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 477268690
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41737611147
+    y: -3.11580786391
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524291763157
+    w: 0.851538693828]
+2018/10/17/15:41:50.577441,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 577203283
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41356166046
+    y: -3.14419068955
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.52293406976
+    w: 0.852373133484]
+2018/10/17/15:41:50.677429,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 677214933
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41336102067
+    y: -3.16977406527
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.523855627771
+    w: 0.851807068093]
+2018/10/17/15:41:50.777390,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 777163947
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41327359191
+    y: -3.20037318561
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524715277945
+    w: 0.851277790789]
+2018/10/17/15:41:50.877485,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 877227675
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40932116423
+    y: -3.23158568983
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524231452941
+    w: 0.851575823839]
+2018/10/17/15:41:50.977445,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783710
+    nsecs: 977162447
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40623291375
+    y: -3.26046426939
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524072777034
+    w: 0.851673484601]
+2018/10/17/15:41:51.077453,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs:  77189674
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40205874374
+    y: -3.29009029388
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.523600270446
+    w: 0.85196405839]
+2018/10/17/15:41:51.177409,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 177198232
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.39905643616
+    y: -3.31654174497
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.523752307945
+    w: 0.851870600457]
+2018/10/17/15:41:51.277533,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 277349951
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40000028685
+    y: -3.34344146344
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524958543601
+    w: 0.851127797396]
+2018/10/17/15:41:51.377525,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 377235860
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40423697696
+    y: -3.37003585006
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527393901417
+    w: 0.84962089943]
+2018/10/17/15:41:51.477482,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 477220713
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40700519199
+    y: -3.39914221569
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527790872986
+    w: 0.849374354683]
+2018/10/17/15:41:51.577430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 577229211
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41097110216
+    y: -3.42530204675
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.528525648259
+    w: 0.848917333509]
+2018/10/17/15:41:51.677462,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 677194755
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41055121623
+    y: -3.45565445799
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.528165157878
+    w: 0.849141664273]
+2018/10/17/15:41:51.777416,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 777210088
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.40993982235
+    y: -3.48519274365
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527151518935
+    w: 0.849771308109]
+2018/10/17/15:41:51.877359,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 877162621
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41208990486
+    y: -3.51358714267
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527176539861
+    w: 0.849755785988]
+2018/10/17/15:41:51.977446,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783711
+    nsecs: 977249065
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.4137707209
+    y: -3.54127416249
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527605190885
+    w: 0.849489707148]
+2018/10/17/15:41:52.077478,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs:  77250717
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41829899609
+    y: -3.56412952358
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529416805696
+    w: 0.848361860203]
+2018/10/17/15:41:52.177547,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 177336028
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.42200046336
+    y: -3.59057668507
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.5310044076
+    w: 0.847369057206]
+2018/10/17/15:41:52.277503,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 277254256
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.41811445641
+    y: -3.61714170895
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531158219824
+    w: 0.847272651225]
+2018/10/17/15:41:52.377470,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 377260627
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.42414919869
+    y: -3.64325673286
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534534908429
+    w: 0.845146396591]
+2018/10/17/15:41:52.477418,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 477178632
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.42898463233
+    y: -3.66861429336
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.537627742125
+    w: 0.84318231178]
+2018/10/17/15:41:52.577413,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 577203789
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.43307627713
+    y: -3.69337015301
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.540575687306
+    w: 0.841295385875]
+2018/10/17/15:41:52.677423,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 677197945
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.43662753085
+    y: -3.7219403535
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.542637927931
+    w: 0.839966713133]
+2018/10/17/15:41:52.777462,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 777249960
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.44211287595
+    y: -3.74355242773
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54518998849
+    w: 0.838312517174]
+2018/10/17/15:41:52.877483,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 877201720
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.44807797144
+    y: -3.76887974923
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.548101588687
+    w: 0.836411769692]
+2018/10/17/15:41:52.977489,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783712
+    nsecs: 977243618
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.44941547918
+    y: -3.79267897076
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.550266366347
+    w: 0.834989177215]
+2018/10/17/15:41:53.077458,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs:  77234793
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.45425634087
+    y: -3.82282462836
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.551318869481
+    w: 0.834294614722]
+2018/10/17/15:41:53.177448,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 177206706
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.45921466865
+    y: -3.85218850936
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.552458058301
+    w: 0.833540697158]
+2018/10/17/15:41:53.277430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 277164144
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.46192664592
+    y: -3.88207633394
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.551150135639
+    w: 0.834406092969]
+2018/10/17/15:41:53.377393,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 377176141
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.46584520793
+    y: -3.90990590438
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.550310492338
+    w: 0.834960096066]
+2018/10/17/15:41:53.477470,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 477265406
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47224870587
+    y: -3.94147209542
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54988501209
+    w: 0.835240368684]
+2018/10/17/15:41:53.577447,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 577252759
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47591010129
+    y: -3.96612664751
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.548718595955
+    w: 0.836007118662]
+2018/10/17/15:41:53.677432,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 677198489
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47533638594
+    y: -3.99440476773
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54450831908
+    w: 0.838755441385]
+2018/10/17/15:41:53.777447,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 777269208
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47453034423
+    y: -4.02651152649
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.539146881254
+    w: 0.842211755104]
+2018/10/17/15:41:53.877775,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 877459834
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.4720196568
+    y: -4.05489826039
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534960206409
+    w: 0.844877255913]
+2018/10/17/15:41:53.977480,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783713
+    nsecs: 977249478
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47057564336
+    y: -4.08046745481
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.532403571677
+    w: 0.846490659645]
+2018/10/17/15:41:54.077440,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs:  77223950
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.47735469811
+    y: -4.11145959257
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531747567784
+    w: 0.846902901256]
+2018/10/17/15:41:54.177459,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 177224173
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48112190156
+    y: -4.14055700406
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531237079527
+    w: 0.847223208686]
+2018/10/17/15:41:54.277551,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 277276483
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48409753449
+    y: -4.17064771865
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529988308651
+    w: 0.848004948508]
+2018/10/17/15:41:54.377516,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 377290186
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48315178585
+    y: -4.19732157476
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.528314614172
+    w: 0.849048684383]
+2018/10/17/15:41:54.477512,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 477249689
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48470124382
+    y: -4.21440960395
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527421237115
+    w: 0.849603930452]
+2018/10/17/15:41:54.577433,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 577209350
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48576893174
+    y: -4.24094366571
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.525786713509
+    w: 0.850616442292]
+2018/10/17/15:41:54.677480,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 677269735
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48595898605
+    y: -4.26666158369
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524941033306
+    w: 0.851138597146]
+2018/10/17/15:41:54.777490,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 777225934
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.48672946048
+    y: -4.28985897429
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.524620283611
+    w: 0.851336336605]
+2018/10/17/15:41:54.877485,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 877226853
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49219690435
+    y: -4.31494426858
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.526031502965
+    w: 0.850465083286]
+2018/10/17/15:41:54.977486,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783714
+    nsecs: 977268074
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49552895861
+    y: -4.33763913217
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.527670033324
+    w: 0.849449431062]
+2018/10/17/15:41:55.077482,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs:  77246650
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.49792811747
+    y: -4.36119019464
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.528056846604
+    w: 0.849209024183]
+2018/10/17/15:41:55.177456,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 177215713
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50151505735
+    y: -4.38399329434
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529050505777
+    w: 0.848590338348]
+2018/10/17/15:41:55.277404,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 277232511
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50523008028
+    y: -4.40581097679
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529603187174
+    w: 0.848245521141]
+2018/10/17/15:41:55.377392,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 377196882
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.50811902124
+    y: -4.42746040507
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529512625912
+    w: 0.848302056463]
+2018/10/17/15:41:55.477432,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 477194898
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51061301704
+    y: -4.44902570095
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.529532831169
+    w: 0.848289443948]
+2018/10/17/15:41:55.577733,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 577536860
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51699173211
+    y: -4.4716763406
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531521723064
+    w: 0.847044661108]
+2018/10/17/15:41:55.678032,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 677707434
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51970159083
+    y: -4.49425337039
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.532183854125
+    w: 0.846628812059]
+2018/10/17/15:41:55.777624,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 777389909
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.51985534731
+    y: -4.51716400255
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.532000392877
+    w: 0.846744106551]
+2018/10/17/15:41:55.877582,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 877305795
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52019957793
+    y: -4.53895784989
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531772814367
+    w: 0.846887049081]
+2018/10/17/15:41:55.977581,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783715
+    nsecs: 977273558
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52075513307
+    y: -4.56079459599
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.531920506568
+    w: 0.846794293021]
+2018/10/17/15:41:56.077499,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs:  77297138
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52294654535
+    y: -4.58234022239
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.532890083194
+    w: 0.846184471161]
+2018/10/17/15:41:56.177534,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 177232716
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52490782289
+    y: -4.60392869058
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.533793105111
+    w: 0.845615113947]
+2018/10/17/15:41:56.277473,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 277218365
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52675696859
+    y: -4.62589045658
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53439152726
+    w: 0.845237064729]
+2018/10/17/15:41:56.377444,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 377282305
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52727696862
+    y: -4.6474278176
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534405835118
+    w: 0.845228018579]
+2018/10/17/15:41:56.477415,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 477210126
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52745989937
+    y: -4.66869522738
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534003144808
+    w: 0.84548249026]
+2018/10/17/15:41:56.577451,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 577253136
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52742243728
+    y: -4.68996293655
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.533724797113
+    w: 0.845658229397]
+2018/10/17/15:41:56.677459,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 677251920
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.52814414785
+    y: -4.71087811497
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53423013471
+    w: 0.84533908177]
+2018/10/17/15:41:56.777532,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 777297631
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53017354867
+    y: -4.73147828974
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534604609867
+    w: 0.845102308072]
+2018/10/17/15:41:56.877452,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 877200824
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53121693579
+    y: -4.753565677
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534481465853
+    w: 0.845180195378]
+2018/10/17/15:41:56.977477,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783716
+    nsecs: 977234558
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53293128707
+    y: -4.77168443756
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.534483238397
+    w: 0.845179074441]
+2018/10/17/15:41:57.077494,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs:  77216369
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53678231974
+    y: -4.79119794257
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.536033115851
+    w: 0.844196954929]
+2018/10/17/15:41:57.177503,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 177240934
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.53937886591
+    y: -4.81201502906
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53754751812
+    w: 0.843233458636]
+2018/10/17/15:41:57.277565,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 277242099
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54037565884
+    y: -4.8317701655
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.537492315676
+    w: 0.843268646748]
+2018/10/17/15:41:57.377504,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 377264068
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54121203476
+    y: -4.84999728152
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53710718194
+    w: 0.843514004097]
+2018/10/17/15:41:57.477484,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 477265567
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54275855
+    y: -4.87045440317
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.537372611239
+    w: 0.843344933399]
+2018/10/17/15:41:57.577818,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 577501669
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54278291407
+    y: -4.89130607159
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.53708547579
+    w: 0.843527825087]
+2018/10/17/15:41:57.677511,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 677186043
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54442268577
+    y: -4.9101499001
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.538472437036
+    w: 0.842643124076]
+2018/10/17/15:41:57.777499,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 777241608
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.54969093791
+    y: -4.9277839834
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54087205858
+    w: 0.841104878269]
+2018/10/17/15:41:57.877510,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 877245116
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55355545004
+    y: -4.94702361108
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.543035571809
+    w: 0.839709692543]
+2018/10/17/15:41:57.977494,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783717
+    nsecs: 977269618
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.55562787439
+    y: -4.96184249649
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54399912134
+    w: 0.83908578583]
+2018/10/17/15:41:58.077453,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs:  77211721
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5586106791
+    y: -4.97867379032
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.54520840699
+    w: 0.838300538559]
+2018/10/17/15:41:58.177397,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 177175187
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56201959456
+    y: -4.99586227747
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.546904290134
+    w: 0.83719513701]
+2018/10/17/15:41:58.277430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 277248413
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56694777805
+    y: -5.01233986887
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.549032329688
+    w: 0.835801113279]
+2018/10/17/15:41:58.377424,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 377233889
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56994506594
+    y: -5.02891035222
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.550586609693
+    w: 0.834778045487]
+2018/10/17/15:41:58.477378,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 477205128
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57341254327
+    y: -5.04488652964
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.552485043102
+    w: 0.833522811415]
+2018/10/17/15:41:58.577465,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 577304642
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57529088014
+    y: -5.06274975609
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.553589479444
+    w: 0.832789702295]
+2018/10/17/15:41:58.677493,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 677289332
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57825484165
+    y: -5.07749038256
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.555238640566
+    w: 0.831691079682]
+2018/10/17/15:41:58.777453,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 777290362
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58174117576
+    y: -5.09352936403
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.55689299011
+    w: 0.830584250734]
+2018/10/17/15:41:58.877460,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 877212237
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58527587947
+    y: -5.10918073474
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.55866582287
+    w: 0.829392849232]
+2018/10/17/15:41:58.977447,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783718
+    nsecs: 977204986
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58638286582
+    y: -5.12573874898
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.558946668223
+    w: 0.829203607133]
+2018/10/17/15:41:59.077812,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs:  77517751
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58724594528
+    y: -5.14446688204
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.558786942355
+    w: 0.829311252217]
+2018/10/17/15:41:59.177496,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 177233043
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57229665842
+    y: -5.2543335669
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561487915926
+    w: 0.827484936581]
+2018/10/17/15:41:59.277393,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 277171502
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57360897624
+    y: -5.27212418419
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562068252854
+    w: 0.827090853011]
+2018/10/17/15:41:59.377522,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 377256860
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57464719848
+    y: -5.29088853957
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562288486776
+    w: 0.826941145209]
+2018/10/17/15:41:59.477492,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 477288264
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57609955033
+    y: -5.30740004914
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562819078532
+    w: 0.826580113988]
+2018/10/17/15:41:59.577444,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 577193737
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5777352925
+    y: -5.32535094047
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.563183369164
+    w: 0.826331950669]
+2018/10/17/15:41:59.677547,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 677301469
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57627217869
+    y: -5.34439298952
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562272107227
+    w: 0.826952282441]
+2018/10/17/15:41:59.777506,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 777243843
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57645174939
+    y: -5.36237343891
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561831841443
+    w: 0.827251462338]
+2018/10/17/15:41:59.877506,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 877267385
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57768809814
+    y: -5.37982616735
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561767013385
+    w: 0.827295486917]
+2018/10/17/15:41:59.977511,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783719
+    nsecs: 977209991
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.577469653
+    y: -5.39852750587
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561879317408
+    w: 0.827219216816]
+2018/10/17/15:42:00.077532,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs:  77250189
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57790826433
+    y: -5.41533179819
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561234433587
+    w: 0.827656879725]
+2018/10/17/15:42:00.177474,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 177205186
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57893196146
+    y: -5.43313659757
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.560373493041
+    w: 0.828240030606]
+2018/10/17/15:42:00.277510,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 277286794
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58011667233
+    y: -5.45033410099
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559467027453
+    w: 0.82885260764]
+2018/10/17/15:42:00.377474,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 377262766
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58210150731
+    y: -5.46725772864
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559280366506
+    w: 0.82897857128]
+2018/10/17/15:42:00.477448,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 477241054
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58368180982
+    y: -5.48422054063
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559023059327
+    w: 0.829152108567]
+2018/10/17/15:42:00.577461,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 577238124
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58677257915
+    y: -5.50030539417
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.560221673803
+    w: 0.828342728707]
+2018/10/17/15:42:00.677444,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 677236472
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5891212826
+    y: -5.51670624464
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561232160521
+    w: 0.827658421088]
+2018/10/17/15:42:00.777475,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 777235593
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5887152104
+    y: -5.53344875803
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.561255001202
+    w: 0.827642932445]
+2018/10/17/15:42:00.877452,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 877218856
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5901642696
+    y: -5.54988337014
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562141847547
+    w: 0.827040835289]
+2018/10/17/15:42:00.977493,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783720
+    nsecs: 977287328
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59229186665
+    y: -5.56610348757
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562766933739
+    w: 0.826615617013]
+2018/10/17/15:42:01.077497,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs:  77267421
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59364708304
+    y: -5.58177935388
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.562820908375
+    w: 0.826578868043]
+2018/10/17/15:42:01.177460,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 177218762
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59505198682
+    y: -5.59882516839
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.563109837545
+    w: 0.826382061071]
+2018/10/17/15:42:01.277400,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 277204676
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59539334233
+    y: -5.61816016259
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.563221123566
+    w: 0.826306218039]
+2018/10/17/15:42:01.377485,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 377241377
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59672485158
+    y: -5.63869693038
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.564369216466
+    w: 0.82552249364]
+2018/10/17/15:42:01.477449,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 477231825
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59887527821
+    y: -5.6577052508
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565835026342
+    w: 0.824518479456]
+2018/10/17/15:42:01.577560,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 577275552
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60053268775
+    y: -5.67578493421
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567491345993
+    w: 0.823379361062]
+2018/10/17/15:42:01.677470,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 677247382
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60178709456
+    y: -5.69434334818
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568507929723
+    w: 0.822677782514]
+2018/10/17/15:42:01.777455,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 777236150
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60289629669
+    y: -5.71359558
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569227977842
+    w: 0.822179730498]
+2018/10/17/15:42:01.877453,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 877238683
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60334902425
+    y: -5.73314482439
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.569726170827
+    w: 0.821834588147]
+2018/10/17/15:42:01.977493,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783721
+    nsecs: 977294415
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.6052862359
+    y: -5.75323287114
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.570295664718
+    w: 0.821439501609]
+2018/10/17/15:42:02.077503,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs:  77168908
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60909808625
+    y: -5.77354767139
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.570494708242
+    w: 0.821301277162]
+2018/10/17/15:42:02.177465,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 177194880
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60850814788
+    y: -5.79433422859
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568343503256
+    w: 0.822791384439]
+2018/10/17/15:42:02.277376,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 277155150
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60556710704
+    y: -5.81520124017
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565120072614
+    w: 0.82500866876]
+2018/10/17/15:42:02.377421,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 377162677
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.6048583118
+    y: -5.83649194945
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.563474302115
+    w: 0.82613359141]
+2018/10/17/15:42:02.477468,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 477235983
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60766211189
+    y: -5.85537533434
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.564527140838
+    w: 0.825414506328]
+2018/10/17/15:42:02.577487,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 577225951
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60981323224
+    y: -5.86942992043
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565501077229
+    w: 0.824747556318]
+2018/10/17/15:42:02.677513,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 677215968
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60957275388
+    y: -5.88228683888
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565752913385
+    w: 0.824574824377]
+2018/10/17/15:42:02.777518,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 777152747
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60925995904
+    y: -5.89515960292
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565962473532
+    w: 0.824431002907]
+2018/10/17/15:42:02.877512,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 877282038
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60848148453
+    y: -5.90222521708
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565838539658
+    w: 0.824516068393]
+2018/10/17/15:42:02.977541,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783722
+    nsecs: 977270006
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60879574556
+    y: -5.9203214295
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567200738323
+    w: 0.823579578696]
+2018/10/17/15:42:03.077543,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs:  77300252
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60949779985
+    y: -5.92992843852
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.568066185028
+    w: 0.822982873107]
+2018/10/17/15:42:03.177468,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 177194563
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.6069268939
+    y: -5.93767510684
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567378795647
+    w: 0.823456921915]
+2018/10/17/15:42:03.277358,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 277177115
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60566720562
+    y: -5.94379069542
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567157583873
+    w: 0.823609297577]
+2018/10/17/15:42:03.377363,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 377159454
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60505670488
+    y: -5.94697723751
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.566657163745
+    w: 0.82395367514]
+2018/10/17/15:42:03.477397,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 477168478
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60664600348
+    y: -5.94946587937
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567227729626
+    w: 0.823560989086]
+2018/10/17/15:42:03.577559,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 577292567
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60647216942
+    y: -5.95082008294
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.567148714261
+    w: 0.823615405339]
+2018/10/17/15:42:03.677429,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 677157731
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60529081937
+    y: -5.95322005869
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.566534385173
+    w: 0.8240381001]
+2018/10/17/15:42:03.777466,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 777241814
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60351815716
+    y: -5.95538327112
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.565647323494
+    w: 0.824647261212]
+2018/10/17/15:42:03.877475,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 877233161
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.60124231657
+    y: -5.95783687206
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.564637362389
+    w: 0.825339111514]
+2018/10/17/15:42:03.977501,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783723
+    nsecs: 977241036
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58821599692
+    y: -5.962162059
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557451582491
+    w: 0.830209451391]
+2018/10/17/15:42:04.077430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs:  77200956
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58844689132
+    y: -5.9627009456
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556542424699
+    w: 0.830819191829]
+2018/10/17/15:42:04.177435,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 177184020
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58757839925
+    y: -5.9650833628
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.555873387642
+    w: 0.831266970901]
+2018/10/17/15:42:04.277419,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 277152259
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58621609351
+    y: -5.96785725083
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.555174973621
+    w: 0.83173358034]
+2018/10/17/15:42:04.377426,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 377229119
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58086756951
+    y: -5.96922175713
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.552123148875
+    w: 0.833762573204]
+2018/10/17/15:42:04.477410,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 477161620
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57793796795
+    y: -5.97086170861
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.550524665704
+    w: 0.834818897996]
+2018/10/17/15:42:04.577424,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 577230549
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58089618062
+    y: -5.9719378588
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.551900335359
+    w: 0.833910078984]
+2018/10/17/15:42:04.677446,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 677228247
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58142361527
+    y: -5.97207109715
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.552032995619
+    w: 0.833822266282]
+2018/10/17/15:42:04.777439,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 777259393
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5796272471
+    y: -5.97229441573
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.551166815602
+    w: 0.834395075117]
+2018/10/17/15:42:04.877435,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 877200182
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57902417209
+    y: -5.97274123488
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.550846177331
+    w: 0.834606787008]
+2018/10/17/15:42:04.977412,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783724
+    nsecs: 977162588
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57601814929
+    y: -5.97351941234
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.549175473094
+    w: 0.835707065755]
+2018/10/17/15:42:05.077349,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs:  77152716
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57242143323
+    y: -5.97439588828
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.547174055517
+    w: 0.837018848634]
+2018/10/17/15:42:05.177381,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 177152731
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56942964274
+    y: -5.97530371984
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.545568547365
+    w: 0.838066202711]
+2018/10/17/15:42:05.277431,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 277242511
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.56834388981
+    y: -5.97604284931
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.544872618755
+    w: 0.838518830636]
+2018/10/17/15:42:05.377869,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 377506540
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.57306691069
+    y: -5.97365396624
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.547823970327
+    w: 0.836593627477]
+2018/10/17/15:42:05.477514,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 477269787
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59010880369
+    y: -5.9690530204
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557704368561
+    w: 0.830039660069]
+2018/10/17/15:42:05.577824,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 577546517
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59220660492
+    y: -5.96949671076
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.559416118973
+    w: 0.828886968068]
+2018/10/17/15:42:05.677413,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 677169695
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.59109109829
+    y: -5.96907721517
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557935678796
+    w: 0.829884195732]
+2018/10/17/15:42:05.777389,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 777160226
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58984887776
+    y: -5.96799139658
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556989456317
+    w: 0.830519563617]
+2018/10/17/15:42:05.877399,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 877154790
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58737058157
+    y: -5.96912549308
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556512263755
+    w: 0.830839395004]
+2018/10/17/15:42:05.977452,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783725
+    nsecs: 977229805
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58902015693
+    y: -5.97083473784
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557443014907
+    w: 0.830215204107]
+2018/10/17/15:42:06.077502,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs:  77280602
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5888911606
+    y: -5.97260615889
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557253656168
+    w: 0.83034231657]
+2018/10/17/15:42:06.177473,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 177238741
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58857502218
+    y: -5.9735413978
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557308772475
+    w: 0.830305324638]
+2018/10/17/15:42:06.277494,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 277258560
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58873766569
+    y: -5.97404896578
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557449951891
+    w: 0.83021054627]
+2018/10/17/15:42:06.377484,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 377169742
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58728874005
+    y: -5.97456759731
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556928519524
+    w: 0.830560427748]
+2018/10/17/15:42:06.477504,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 477216806
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58727244905
+    y: -5.97499897821
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556987023327
+    w: 0.830521195302]
+2018/10/17/15:42:06.577460,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 577153294
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58671804423
+    y: -5.97536142533
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556692554714
+    w: 0.830718604298]
+2018/10/17/15:42:06.677529,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 677392368
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58647575286
+    y: -5.97567495415
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556632184085
+    w: 0.830759057514]
+2018/10/17/15:42:06.777467,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 777233728
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58731450706
+    y: -5.97571488303
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557015652134
+    w: 0.830501994746]
+2018/10/17/15:42:06.877460,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 877231153
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58678969242
+    y: -5.97596677066
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556808116307
+    w: 0.830641150928]
+2018/10/17/15:42:06.977462,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783726
+    nsecs: 977242299
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58709121649
+    y: -5.97627105185
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557019108006
+    w: 0.830499676891]
+2018/10/17/15:42:07.077430,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs:  77251224
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58711778582
+    y: -5.97661932154
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557102999775
+    w: 0.830443404238]
+2018/10/17/15:42:07.177408,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 177160753
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58576248259
+    y: -5.97664851551
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556397227802
+    w: 0.83091643677]
+2018/10/17/15:42:07.277345,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 277166848
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58577778072
+    y: -5.97669182505
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556383259017
+    w: 0.83092579036]
+2018/10/17/15:42:07.377351,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 377156044
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58667597203
+    y: -5.97686314364
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556887957845
+    w: 0.830587624761]
+2018/10/17/15:42:07.477382,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 477224794
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58564162582
+    y: -5.97706774488
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.55648280738
+    w: 0.830859124696]
+2018/10/17/15:42:07.577401,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 577228916
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58601877687
+    y: -5.97729440155
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.55663020671
+    w: 0.830760382408]
+2018/10/17/15:42:07.677554,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 677287864
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58643575002
+    y: -5.97728994331
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556846205856
+    w: 0.830615616892]
+2018/10/17/15:42:07.777473,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 777250917
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.5859752029
+    y: -5.97755249505
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556574299635
+    w: 0.830797838819]
+2018/10/17/15:42:07.877429,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 877194849
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58681451322
+    y: -5.97753502829
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.556993479036
+    w: 0.83051686576]
+2018/10/17/15:42:07.977391,[header: 
+  seq: 0
+  stamp: 
+    secs: 1539783727
+    nsecs: 977255174
+  frame_id: "odom"
+child_frame_id: "base_link"
+transform: 
+  translation: 
+    x: 3.58669051874
+    y: -5.97755639705
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: -0.557008325656
+    w: 0.830506908551]
