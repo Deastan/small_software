@@ -69,21 +69,25 @@ if __name__== "__main__":
 
     plt.rcParams.update({'font.size': 30})
 
-    file_name = 'sideSquare-base_link_odom_camera_is1500.csv'
+    file_name = 'driftAfter30SecHideFiducial5visibles-base_link_odom_camera_is1500.csv'
     err_min_1, err_min_1, n_1, Strecke_1 = function(file_name)
     # print(Strecke_1[int(1)][int(1)])
-    f = plt.figure(1, figsize=(40, 32))
-    ax = f.add_subplot(111)
-    for i in range(0, len(Strecke_1), 1):
-        plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1) + ": "+str(Strecke_1[i]))
-        plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
-        plt.annotate(
-            str('( ' + str(Strecke_1[int(i)][int(0)]) +', ' + str(Strecke_1[int(i)][int(1)]) + ')'),
-            xy=((Strecke_1[int(i)][int(0)]+0.0), (Strecke_1[int(i)][int(1)])+0.0), xytext=(-10, 10),
-            textcoords='offset points', ha='right', va='bottom',
-            bbox=dict(boxstyle='round,pad=0.5', fc='grey', alpha=0.5),
-            arrowprops=dict(arrowstyle = '->', connectionstyle='arc3,rad=0'))
-    plt.plot(base_link_x_odom_camera, base_link_y_odom_camera, label='Robot position in camera frame')
+    # f = plt.figure(1, figsize=(40, 32))
+    # ax = f.add_subplot(111)
+    # for i in range(0, len(Strecke_1), 1):
+    #     plt.plot(Strecke_1[int(i)][int(0)], Strecke_1[int(i)][int(1)], 'o' ,color='red', markersize=20, label="Ground truth Point " +str(i+1) + ": "+str(Strecke_1[i]))
+    #     plt.plot(base_link_x_odom_camera[int(n_1[i])], base_link_y_odom_camera[int(n_1[i])], 'o' ,color='blue', markersize=20, label="Point " +str(i+1) + ": " + str(err_min_1[i]) + " m")
+    #     plt.annotate(
+    #         str('( ' + str(Strecke_1[int(i)][int(0)]) +', ' + str(Strecke_1[int(i)][int(1)]) + ')'),
+    #         xy=((Strecke_1[int(i)][int(0)]+0.0), (Strecke_1[int(i)][int(1)])+0.0), xytext=(-10, 10),
+    #         textcoords='offset points', ha='right', va='bottom',
+    #         bbox=dict(boxstyle='round,pad=0.5', fc='grey', alpha=0.5),
+    #         arrowprops=dict(arrowstyle = '->', connectionstyle='arc3,rad=0'))
+    plt.plot(0, 0, 'o' ,color='black', markersize=10, label="Variance on x : " + str(np.var(base_link_x_odom_camera))+", variance on y : " + str(np.var(base_link_y_odom_camera)))
+    plt.plot(base_link_x_odom_camera[1:300:1], base_link_y_odom_camera[1:300:1], color='blue', label='Robot position, first 30 sec seeing fiducials')
+    plt.plot(base_link_x_odom_camera[301:585:1], base_link_y_odom_camera[301:585:1], color='red', label='Robot position, 30 sec to 60 sec hiding all fiducials')
+    plt.plot(base_link_x_odom_camera[585:1230:1], base_link_y_odom_camera[585:1230:1], color='green', label='Robot position, 60 sec to 120 sec hiding all fiducials')
+
     # plt.plot(base_link_y_odom_camera_tf, base_link_x_odom_camera_tf, label='Camera position in Base link frame with tf')
     # plt.plot(base_camera_y_odom_camera, base_camera_x_odom_camera, label='Camera position in Base camera frame')
     # ax.annotate('local max', xy=(2, 1), xytext=(3, 1.5),
@@ -97,11 +101,11 @@ if __name__== "__main__":
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
-               ncol=3, mode="expand", borderaxespad=0.) #bbox_to_anchor=(0., 1.02, 1., .102)
+               ncol=1, mode="expand", borderaxespad=0.) #bbox_to_anchor=(0., 1.02, 1., .102)
     # plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
     # plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
     # f.set_size_inches(20, 15)
-    f.savefig(file_name+'.png')
+    # f.savefig(file_name+'.png')
     # plt.close(f)
 
     plt.show()
