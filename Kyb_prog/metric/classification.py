@@ -2,12 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import csv
-import tf
-import tf.transformations
+# import tf
+# import tf.transformations
 import sys, os
 
 from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.metrics import mean_squared_error, r2_score, balanced_accuracy_score
 
 # file_name = 'data.csv'
@@ -42,7 +42,7 @@ x_train = scaler.transform(x_train)
 min_score = 0
 # params = {0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000}#, 250000000, 500000000, 750000000, 1000000000, 10000000000, 100000000000}
 # for alph in params:
-ridge = Ridge(fit_intercept=True, alpha=1)
+ridge = Ridge(fit_intercept=True, alpha=10.0)
 ridge.fit(x_train, y_train)
 # p = ridge.predict(x_train[test])
     # RMSE = mean_squared_error(y_train[test], p)**0.5
@@ -55,7 +55,8 @@ ridge.fit(x_train, y_train)
     #     min_alpha = alph
         # plt.legend(['%s KFold' %i])
 # print("Alpha minimum est : ", min_alpha, " sur le K_fold : ", min_kFold, ", with a score = ", min_score, ", RMSE = ", min_rmse, ", BMAC", BMAC)
-print(get_params(ridge))
+z = ridge.get_params()
+print(ridge.coef_)
 # To plot a pseudo graph of alpha in x-axis and score in y-axis
 # plt.xscale('log')
 # plt.xlabel('Alpha in ridge regression')
