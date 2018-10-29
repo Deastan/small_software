@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score, balanced_accuracy_score
 
-file_name = 'data.csv'
+# file_name = 'data.csv'
 
 y_train = []
 x_train = []
