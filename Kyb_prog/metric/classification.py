@@ -32,8 +32,8 @@ y_train = data_y_train.values[:,:]
 y_train = np.delete(y_train, (0), axis=1)
 
 
-scaler = StandardScaler().fit(x_train)
-x_train = scaler.transform(x_train)
+# scaler = StandardScaler().fit(x_train)
+# x_train = scaler.transform(x_train)
 
 
 # #*******************************************************************************
@@ -42,21 +42,15 @@ x_train = scaler.transform(x_train)
 min_score = 0
 # params = {0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000}#, 250000000, 500000000, 750000000, 1000000000, 10000000000, 100000000000}
 # for alph in params:
+
 ridge = Ridge(fit_intercept=True, alpha=10.0)
 ridge.fit(x_train, y_train)
-# p = ridge.predict(x_train[test])
-    # RMSE = mean_squared_error(y_train[test], p)**0.5
-    # score = r2_score(y_train[test], p)
-    # # BMAC = balanced_accuracy_score(y_train[test], p)
-    # plt.plot(alph, score, 'o', markersize=10, label='%s data : ' %current_kf)
-    # if(RMSE > min_score):
-    #     min_score = score
-    #     min_rmse = RMSE
-    #     min_alpha = alph
-        # plt.legend(['%s KFold' %i])
-# print("Alpha minimum est : ", min_alpha, " sur le K_fold : ", min_kFold, ", with a score = ", min_score, ", RMSE = ", min_rmse, ", BMAC", BMAC)
-z = ridge.get_params()
-print(ridge.coef_)
+
+model = LinearRegression(fit_intercept=True)
+model.fit(x_train, y_train)
+
+# z = ridge.get_params()
+print(model.coef_)
 # To plot a pseudo graph of alpha in x-axis and score in y-axis
 # plt.xscale('log')
 # plt.xlabel('Alpha in ridge regression')

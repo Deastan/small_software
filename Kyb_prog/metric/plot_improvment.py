@@ -23,10 +23,11 @@ err_predict = []
 # cost_vector = alpha_1 * err_dist[i] +
 #               alpha_2 * err_predict[i] +
 #               alpha_3 * err_angle[i]
-alpha_1 = 1.5#1
-alpha_2 = 1.5#1
-alpha_3 = 0.5
-threshold = 1.0 #0.8
+# 0.00291484  0.24063109  0.65852823
+alpha_1 = 1.5#0.24063109#0.00995339#1.5#1
+alpha_2 = 1.5#0.65852823#0.03636615#1.5#1
+alpha_3 = 0.5#0.00291484#0.00067351#0.5
+threshold = 0.8 #0.8
 cost_vector = []
 
 points = []
