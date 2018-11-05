@@ -19,6 +19,7 @@ velocity = []
 predict_x = []
 predict_y = []
 err_predict = []
+grad = []
 
 # cost_vector = alpha_1 * err_dist[i] +
 #               alpha_2 * err_predict[i] +
@@ -27,7 +28,8 @@ err_predict = []
 alpha_1 = 1.5#0.24063109#0.00995339#1.5#1
 alpha_2 = 1.5#0.65852823#0.03636615#1.5#1
 alpha_3 = 0.5#0.00291484#0.00067351#0.5
-threshold = 0.8 #0.8
+alpha_4 = 1.0# Grad
+threshold = 1.8 #0.8
 cost_vector = []
 
 points = []
@@ -38,7 +40,7 @@ y = []
 if __name__== "__main__":
 
     plt.rcParams.update({'font.size': 30})
-    file_name = 'straight-base_link_odom_camera_is1500.csv'
+    file_name = 'nowheretop1-base_link_odom_camera_is1500.csv'
 
     with open(file_name,'r') as csvfile:
       next(csvfile)
@@ -60,10 +62,11 @@ if __name__== "__main__":
     err_dist.append(float(0))
     err_predict.append(float(0))
     err_angle.append(float(0))
+    grad.append(float(0))
     y.append(0)
     for i in range(1,  len(pos_x)):
         # Close to covariance
-        # Compare the error between the position actual position with the one before
+        # Compare the distance between the current position and the one before
         err_dist.append(np.power(np.power(pos_x[i] -
             pos_x[i-1], 2) +
             np.power(pos_y[i] -
@@ -79,13 +82,22 @@ if __name__== "__main__":
         err_angle.append(np.absolute((np.arctan2(predict_y[i] - pos_y[i-1],
             predict_x[i] - pos_x[i-1]) - np.arctan2(pos_y[i] - pos_y[i-1],
             pos_x[i] - pos_x[i-1]))/(2*3.1457)))
+
+        # Grad
+        # Normalized at max velocity
+        grad_norm = 1.94 + 1.0
+        grad.append((np.power(np.power(pos_x[i] - pos_x[i-1], 2) +  np.power(pos_y[i] -
+            pos_y[i-1], 2), 0.5))/(increment_time*grad_norm))
+
         # Cost vector
         cost_vector.append(alpha_1 * err_dist[i] + alpha_2 * err_predict[i] +
-            alpha_3 * err_angle[i])
+            alpha_3 * err_angle[i] + alpha_4 * grad[i])
         if(cost_vector[i] > threshold):
             print('cost_vector: ', cost_vector[i], ', err_dist: ', err_dist[i],
-                ', err_predict: ', err_predict[i],  ', err_angle: ',
-                err_angle[i])
+                ', err_predict: ', err_predict[i],  ', err_angle: ', err_angle[i],
+                ', grad_norm: ', grad[i])
+
+            # print('Velocity: ', velocity[i-1], ', ', velocity[i], ', ', velocity[i+1])
             points.append([pos_x[i], pos_y[i]])
             n_1.append(i)
             print(points)
@@ -93,7 +105,7 @@ if __name__== "__main__":
         else:
             y.append(0)
 
-    # f = plt.figure(1, figsize=(40, 32))
+    f = plt.figure(1, figsize=(40, 32))
     # ax = f.add_subplot(111)
     for i in range(0, len(points), 1):
         plt.plot(pos_x[int(n_1[i])],
@@ -107,7 +119,7 @@ if __name__== "__main__":
     plt.xlabel('x [m]')
     plt.ylabel('y [m]')
     plt.xlim(0.0, 7.0)
-    plt.ylim(0.0, -7.0)
+    plt.ylim(0.0, 7.0)
     # plt.title('Measurment of the odometry' + '\n' + file_name)
     # plt.legend()
     plt.legend(numpoints=1, bbox_to_anchor=(0., 1.02, 1., .102), loc=1,
@@ -115,11 +127,11 @@ if __name__== "__main__":
     # plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
     # plt.legend(numpoints=1, bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
     # f.set_size_inches(20, 15)
-    # f.savefig(file_name + '.png')
+    f.savefig(file_name + '.png')
     # plt.close(f)
 
     plt.show()
 
-    d = {'err_dist': err_dist, 'err_predict': err_predict, 'err_angle': err_angle, 'y': y}
+    d = {'err_dist': err_dist, 'err_predict': err_predict, 'err_angle': err_angle, 'grad': grad, 'y': y}
     prediction_pd = pd.DataFrame(d)#, columns= ['err_dist', 'err_predict', 'err_angle'])
     prediction_pd.to_csv('y_' + file_name + '.csv', sep = ',')
