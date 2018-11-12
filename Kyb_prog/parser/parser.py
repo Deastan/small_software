@@ -78,10 +78,14 @@ import pandas as pd
 #
 # # # print(v[:][3])
 # print('end')
-
-user1 = pd.read_csv('environmentPSEs.cfg', header=None, sep=' ', skipinitialspace=True, low_memory=False, skiprows=2)
-# print user1
-x_test = user1.values[:,:]
+# user1 = pd.read_csv('/home/jonathan/Documents/wrapperCameraIS-1500/IS-1500_Software/Linux/Maps/back_hangar_outside_monday_1/environmentPSEs.cfg', header=None, sep=' ', skipinitialspace=True, low_memory=False, skiprows=2)
+# Get data
+data = pd.read_csv('environmentPSEs.cfg', header=None, sep=' ', skipinitialspace=True, low_memory=False, skiprows=3)
+fiducial_pos = data.values[:,1], data.values[:,14], data.values[:,15], data.values[:,16] #concatanate the vector
+# 14 15 16
+# fiducial_pos = data_matrix[:,1], data_matrix[:,14], data_matrix[:,15], data_matrix[:,16]
+# for i in (0, len(data_matrix))
+#     i = i + 3
 # x_test = np.delete(x_test, (0), axis=1)
 # print(x_test[1][3])
-print(x_test[2][1])
+print(data_matrix[:][0])
